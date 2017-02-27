@@ -59,6 +59,7 @@
     <Compile Include="BasicAssertions.cs" />
     <Compile Include="BooleanAssertions.cs" />
     <Compile Include="ComparableTypesAssertions.cs" />
+    <Compile Include="DateTimeAssertions.cs" />
     <Compile Include="NullableTypes.cs" />
     <Compile Include="StringAssertions.cs" />
   </ItemGroup>
