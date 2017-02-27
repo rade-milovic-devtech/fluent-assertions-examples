@@ -1,0 +1,13 @@
+# Visual Studio related files and folders
+.vs/
+*.user
+
+# Jetbrains Rider related files and folders
+.idea/
+
+# Build result folders
+bin/
+obj/
+
+# NuGet packages
+packages/
