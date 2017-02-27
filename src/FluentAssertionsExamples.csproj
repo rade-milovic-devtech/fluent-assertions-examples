@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BasicAssertions.cs" />
+    <Compile Include="BooleanAssertions.cs" />
     <Compile Include="NullableTypes.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
