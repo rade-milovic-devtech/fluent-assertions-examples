@@ -64,6 +64,7 @@
     <Compile Include="DictionariesAssertions.cs" />
     <Compile Include="ExceptionsAssertions.cs" />
     <Compile Include="NullableTypes.cs" />
+    <Compile Include="ObjectGraphAssertions.cs" />
     <Compile Include="StringAssertions.cs" />
     <Compile Include="TimeSpanAssertions.cs" />
   </ItemGroup>
