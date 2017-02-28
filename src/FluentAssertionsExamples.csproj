@@ -60,6 +60,7 @@
     <Compile Include="BooleanAssertions.cs" />
     <Compile Include="CollectionsAssertions.cs" />
     <Compile Include="ComparableTypesAssertions.cs" />
+    <Compile Include="CustomAssertions.cs" />
     <Compile Include="DateTimeAssertions.cs" />
     <Compile Include="DictionariesAssertions.cs" />
     <Compile Include="ExceptionsAssertions.cs" />
