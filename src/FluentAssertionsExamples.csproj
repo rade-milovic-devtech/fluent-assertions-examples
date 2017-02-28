@@ -62,6 +62,7 @@
     <Compile Include="ComparableTypesAssertions.cs" />
     <Compile Include="DateTimeAssertions.cs" />
     <Compile Include="DictionariesAssertions.cs" />
+    <Compile Include="ExceptionsAssertions.cs" />
     <Compile Include="NullableTypes.cs" />
     <Compile Include="StringAssertions.cs" />
     <Compile Include="TimeSpanAssertions.cs" />
